@@ -1,3 +1,13 @@
+:root {
+  --get: #a7c7e7;
+  --post: #c1e1c1;
+  --put: #ffb347;
+  --delete: #ff6961;
+}
+
 body {
-  background-color: red;
+  color: #fff;
+  background-color: #181818;
+  margin: 0;
+  padding: 0;
 }
